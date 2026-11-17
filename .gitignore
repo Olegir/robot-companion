@@ -1,0 +1,16 @@
+# Built app — people build it themselves from source
+*.app/
+build/
+
+# macOS system files
+.DS_Store
+._*
+
+# Screenshots taken by the robot
+Robot screenshot *.png
+Знімок робота *.png
+
+# Editors
+.vscode/
+.idea/
+*.swp
